@@ -1,0 +1,26 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    font-weight:normal;
+    font-variant: small-caps;
+    font-style: italic;
+    color: rgb(250, 245, 239);
+    text-align: center;
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 50px;
+    text-align: justify;
+    text-indent: 100px;
+    color: rgb(250, 245, 239);
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: black;
+    background-image: url(images-removebg-preview.png);
+    background-repeat: no-repeat; 
+    
+}
+
